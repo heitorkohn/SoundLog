@@ -6,4 +6,5 @@
 - CSS
 
 ## Live demo
-[Soundlog on GitHub Pages](https://heitorkohn.github.io/soundlog/)
+[Soundlog: Home](https://heitorkohn.github.io/SoundLog/)
+
